@@ -1,5 +1,5 @@
-1. Your favourites list must remove your card wihtout page reload.
-2. Your filters must be query params
+1. Your favourites list must remove your card without page reload.
+2. Use query params for filters.
 3. All changes must be saved at localStorage
 4. Remove pagination, when you don't have any search results
 5. Add NotFoundPage when you have not valid path
